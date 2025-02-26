@@ -1,0 +1,7 @@
+{
+    "serialport":"COM3",
+    "files": [{
+        "DestinationFilePath": "I:\\filetoread.png",
+        "SourceFilePath": "filetoread.png"
+    }]
+  }
